@@ -4,7 +4,7 @@
 </p>
 
 <h1>VPN - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation ousing a VPN.<br />
+This tutorial outlines the prerequisites and installation using a VPN.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -185,4 +185,3 @@ Virtual Machin IP VPN (Japan) 212.102.51.251
 <br />
 If you no longer need the VM, ensure to remove it from the Asure account for unwanted charges.
 
-END OF TUTORIAL
